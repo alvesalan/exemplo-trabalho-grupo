@@ -1,0 +1,6 @@
+C:\Users\105014\Documents\GitHub\exemplo-trabalho-grupo\NossaAplicacao\NossaAplicacao\bin\Debug\NossaAplicacao.exe.config
+C:\Users\105014\Documents\GitHub\exemplo-trabalho-grupo\NossaAplicacao\NossaAplicacao\bin\Debug\NossaAplicacao.exe
+C:\Users\105014\Documents\GitHub\exemplo-trabalho-grupo\NossaAplicacao\NossaAplicacao\bin\Debug\NossaAplicacao.pdb
+C:\Users\105014\Documents\GitHub\exemplo-trabalho-grupo\NossaAplicacao\NossaAplicacao\obj\Debug\NossaAplicacao.csprojResolveAssemblyReference.cache
+C:\Users\105014\Documents\GitHub\exemplo-trabalho-grupo\NossaAplicacao\NossaAplicacao\obj\Debug\NossaAplicacao.exe
+C:\Users\105014\Documents\GitHub\exemplo-trabalho-grupo\NossaAplicacao\NossaAplicacao\obj\Debug\NossaAplicacao.pdb
